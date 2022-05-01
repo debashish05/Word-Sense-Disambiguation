@@ -20,3 +20,8 @@ Checkpoint: https://drive.google.com/drive/folders/1gPcft5zFSqmu6Kl33GD3tUV7uX7l
 
 3) BERT Model: https://colab.research.google.com/drive/1LNN4TZXaIVsdippFWz8Ibzbw9_zSRcum?usp=sharing
 
+4) KNN:
+
+Model: https://colab.research.google.com/drive/1UL02LOeHl_OZXNdyQeeA85Bb6i9Yv6jH?usp=sharing
+
+Checkpoint: https://github.com/debashish05/Word-Sense-Disambiguation/tree/main/data/knn_checkpoints
