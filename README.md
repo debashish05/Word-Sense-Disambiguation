@@ -1,4 +1,4 @@
-### NLP Assignment 1
+### NLP Project
 
 The Github Repo for the project is: https://github.com/debashish05/Word-Sense-Disambiguation
 
