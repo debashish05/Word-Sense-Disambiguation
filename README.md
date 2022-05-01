@@ -13,7 +13,7 @@ Checkpoint: https://drive.google.com/drive/folders/1-5dJHWLUXZewgRYvVpCRv9eh1-dO
 
 2) BiLSTM: 
 
-Model:
+Model: https://colab.research.google.com/drive/14nGiAJUhwhEciH84NfGH1SWngDTtzazl?usp=sharing
 
 Checkpoint: https://drive.google.com/drive/folders/1gPcft5zFSqmu6Kl33GD3tUV7uX7lf2VZ?usp=sharing
 
